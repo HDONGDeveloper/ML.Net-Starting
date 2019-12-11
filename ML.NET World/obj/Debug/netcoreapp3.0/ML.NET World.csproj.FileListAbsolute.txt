@@ -1,0 +1,26 @@
+D:\Private Work\ML.NET World\ML.NET World\bin\Debug\netcoreapp3.0\ML.NET World.exe
+D:\Private Work\ML.NET World\ML.NET World\obj\Debug\netcoreapp3.0\ML.NET World.csprojAssemblyReference.cache
+D:\Private Work\ML.NET World\ML.NET World\obj\Debug\netcoreapp3.0\ML.NET World.AssemblyInfoInputs.cache
+D:\Private Work\ML.NET World\ML.NET World\obj\Debug\netcoreapp3.0\ML.NET World.AssemblyInfo.cs
+D:\Private Work\ML.NET World\ML.NET World\bin\Debug\netcoreapp3.0\ML.NET World.deps.json
+D:\Private Work\ML.NET World\ML.NET World\bin\Debug\netcoreapp3.0\ML.NET World.runtimeconfig.json
+D:\Private Work\ML.NET World\ML.NET World\bin\Debug\netcoreapp3.0\ML.NET World.runtimeconfig.dev.json
+D:\Private Work\ML.NET World\ML.NET World\bin\Debug\netcoreapp3.0\ML.NET World.dll
+D:\Private Work\ML.NET World\ML.NET World\bin\Debug\netcoreapp3.0\ML.NET World.pdb
+D:\Private Work\ML.NET World\ML.NET World\bin\Debug\netcoreapp3.0\Microsoft.ML.Core.dll
+D:\Private Work\ML.NET World\ML.NET World\bin\Debug\netcoreapp3.0\Microsoft.ML.Data.dll
+D:\Private Work\ML.NET World\ML.NET World\bin\Debug\netcoreapp3.0\Microsoft.ML.KMeansClustering.dll
+D:\Private Work\ML.NET World\ML.NET World\bin\Debug\netcoreapp3.0\Microsoft.ML.PCA.dll
+D:\Private Work\ML.NET World\ML.NET World\bin\Debug\netcoreapp3.0\Microsoft.ML.StandardTrainers.dll
+D:\Private Work\ML.NET World\ML.NET World\bin\Debug\netcoreapp3.0\Microsoft.ML.Transforms.dll
+D:\Private Work\ML.NET World\ML.NET World\bin\Debug\netcoreapp3.0\Microsoft.ML.CpuMath.dll
+D:\Private Work\ML.NET World\ML.NET World\bin\Debug\netcoreapp3.0\Microsoft.ML.DataView.dll
+D:\Private Work\ML.NET World\ML.NET World\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Private Work\ML.NET World\ML.NET World\bin\Debug\netcoreapp3.0\System.CodeDom.dll
+D:\Private Work\ML.NET World\ML.NET World\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libLdaNative.so
+D:\Private Work\ML.NET World\ML.NET World\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libLdaNative.dylib
+D:\Private Work\ML.NET World\ML.NET World\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\LdaNative.dll
+D:\Private Work\ML.NET World\ML.NET World\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\LdaNative.dll
+D:\Private Work\ML.NET World\ML.NET World\obj\Debug\netcoreapp3.0\ML.NET World.csproj.CopyComplete
+D:\Private Work\ML.NET World\ML.NET World\obj\Debug\netcoreapp3.0\ML.NET World.dll
+D:\Private Work\ML.NET World\ML.NET World\obj\Debug\netcoreapp3.0\ML.NET World.pdb
